@@ -1,4 +1,4 @@
-**A basic money transfer app**
+**Transactly**
 
 
 Welcome to the Money Transfer Application! This application allows users to sign up, sign in, and transfer money securely, leveraging database management system (DBMS) transactions to ensure data integrity and consistency.
