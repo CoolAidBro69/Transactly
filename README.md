@@ -19,3 +19,5 @@ Features
  -   Backend: Implemented in Express.
  -   Database: Utilizes MongoDB for storing user information, account balances, and transaction records.
  -  Transactions: DBMS transactions are employed to manage concurrency and ensure ACID properties (Atomicity, Consistency, Isolation, Durability) during money transfers.
+
+   /assets/image_1.png
